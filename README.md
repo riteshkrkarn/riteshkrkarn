@@ -54,7 +54,6 @@ I'm a **Front-end Developer**, **Aspiring Full-stack Developer**, and a **Flutte
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-kumar-karn-ab90a9247/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/riteshkarn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=white)](https://riteshkumarkarn.github.io/portfolio-website/)
 
 ---
 
