@@ -1,7 +1,7 @@
 # Hi there, I'm Ritesh Kumar Karn! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/riteshkumarkarn?style=social)](https://github.com/riteshkumarkarn)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-riteshkumarkarn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/riteshkumarkarn](https://www.linkedin.com/in/riteshkumarkarn))
+[![GitHub followers](https://img.shields.io/github/followers/riteshkumarkarn?style=social)](https://github.com/riteshkrkarn)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-riteshkumarkarn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/riteshkrkarn](https://www.linkedin.com/in/riteshkrkarn))
 
 ---
 
@@ -28,23 +28,23 @@ I'm a **Front-end Developer**, **Aspiring Full-stack Developer**, and a **Flutte
 
 ## 📊 GitHub Stats
 
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=riteshkumarkarn&show_icons=true&theme=radical)  
+![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=riteshkrkarn&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshkumarkarn&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshkrkarn&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 How to Reach Me
 
 - **Email**: [riteshkumarkarn414@gmail.com](mailto:riteshkumarkarn414@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/riteshkumarkarn](https://www.linkedin.com/in/riteshkumarkarn)  
-- **GitHub**: [github.com/riteshkumarkarn](https://github.com/riteshkumarkarn)  
+- **LinkedIn**: [linkedin.com/in/riteshkumarkarn](https://www.linkedin.com/in/riteshkrkarn)  
+- **GitHub**: [github.com/riteshkumarkarn](https://github.com/riteshkrkarn)  
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riteshkumarkarn) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/riteshkarn)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riteshkrkarn) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/riteshkarn)  
 
 ---
 
