@@ -1,7 +1,7 @@
 # Hi there, I'm Ritesh Kumar Karn! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/riteshkumarkarn?style=social)](https://github.com/riteshkrkarn)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-riteshkumarkarn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/riteshkrkarn](https://www.linkedin.com/in/riteshkrkarn))
+[![GitHub followers](https://img.shields.io/github/followers/riteshkrkarn?style=social)](https://github.com/riteshkrkarn)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-riteshkrkarn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/riteshkrkarn](https://www.linkedin.com/in/riteshkrkarn))
 
 ---
 
