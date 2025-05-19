@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a **Front-end Developer**, **Aspiring Full-stack Developer**, and a **Flutter Enthusiast** currently pursuing a Bachelor of Engineering in Computer Science at **The National Institute of Engineering, Mysore**. Passionate about learning and exploring every corner of the tech world, I'm on a mission to create innovative solutions and contribute to impactful projects.
+I'm a **Front-end Developer**, **Aspiring Full-stack Developer**, and a **Flutter** and **Web3 Enthusiast** currently pursuing a Bachelor of Engineering in Computer Science at **The National Institute of Engineering, Mysore**. Passionate about learning and exploring every corner of the tech world, I'm on a mission to create innovative solutions and contribute to impactful projects.
 
 ### 🌟 Highlights
 - 🌱 Learning **Data Structures and Algorithms (DSA)** in **Java**.
