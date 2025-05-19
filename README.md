@@ -1,6 +1,6 @@
 # Hi there, I'm Ritesh Kumar Karn! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/riteshkumarkarn?style=social)](https://github.com/riteshkumarkarn)  
+[![GitHub followers](https://img.shields.io/github/followers/riteshkrkarn?style=social)](https://github.com/riteshkrkarn)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-riteshkumarkarn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ritesh-kumar-karn-ab90a9247/)
 
 ---
