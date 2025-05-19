@@ -1,55 +1,43 @@
-# Hi there, I'm Ritesh Kumar Karn! 👋
+# Hi, I'm Ritesh Kumar Karn
 
-[![GitHub followers](https://img.shields.io/github/followers/riteshkrkarn?style=social)](https://github.com/riteshkrkarn)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-riteshkrkarn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/riteshkrkarn)
-
----
-
-## 🚀 About Me
-
-I'm a **Front-end Developer**, **Aspiring Full-stack Developer**, and a **Web3 Enthusiast** currently pursuing a Bachelor of Engineering in Computer Science at **The National Institute of Engineering, Mysore**. Passionate about learning and exploring every corner of the tech world, I'm on a mission to create innovative solutions and contribute to impactful projects — both centralized and decentralized!
-
-### 🌟 Highlights
-- 🌱 Learning **Data Structures and Algorithms (DSA)** in **Java**.
-- 💡 Currently exploring **Backend Development** with **Node.js** and **Express.js** to transition into **Full-stack Development**.
-- 🧱 Also diving into **Web3 Development** with **Solidity** and **Ethers.js** — excited about building decentralized applications!
-- 🤝 Open to collaborating on **open-source projects**.
+I'm a passionate and curious developer currently pursuing a Bachelor's in Computer Science. I love building creative solutions through code and constantly exploring new technologies. My main focus is web development, and I’m also diving into backend and Web3 development using Solidity and Ethers.js. Always open to collaboration and learning!
 
 ---
 
-## 🛠️ Skills
-
-### Languages  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-
-### Frameworks & Tools  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white) ![Ethers.js](https://img.shields.io/badge/Ethers.js-%236e53a2.svg?style=flat-square&logo=ethereum&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-764ABC?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=riteshkrkarn&show_icons=true&theme=radical)  
+---
+
+### GitHub Stats
+![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=riteshkrkarn&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshkrkarn&layout=compact&theme=radical)
 
 ---
 
-## 📫 How to Reach Me
+### 📬 How to Reach Me
 
-- **Email**: [riteshkumarkarn414@gmail.com](mailto:riteshkumarkarn414@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/riteshkrkarn](https://www.linkedin.com/in/riteshkrkarn)  
-- **GitHub**: [github.com/riteshkrkarn](https://github.com/riteshkrkarn)
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riteshkrkarn)  
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://x.com/riteshkrkarn?t=chD2SDL8xZuZmcEj0Yjymw&s=09)
+- **Email:** riteshkumarkarn414@gmail.com  
+- **LinkedIn:** [riteshkrkarn](https://www.linkedin.com/in/riteshkrkarn)  
+- **GitHub:** [riteshkrkarn](https://github.com/riteshkrkarn)  
+- **X (Twitter):** [riteshkrkarn](https://x.com/riteshkrkarn)
 
 ---
 
-## 🌱 Fun Facts
+### 🔥 Fun Fact
 
-- 🎮 I'm a gaming enthusiast who loves discovering new games.  
-- 📘 I enjoy learning new programming languages and tools.
+I started my coding journey with Scratch, and ever since then, I’ve been hooked on creating things that live on the web and now even the blockchain!
