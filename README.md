@@ -23,8 +23,9 @@ I'm a passionate and curious developer currently pursuing a **Bachelor's in Comp
 
 ### Languages
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
 </p>
@@ -37,10 +38,15 @@ I'm a passionate and curious developer currently pursuing a **Bachelor's in Comp
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### Backend & Mobile Development
+### Backend & Database
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### Mobile Development
+<p>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img alt="Learning" src="https://img.shields.io/badge/Learning-🚀-brightgreen?style=for-the-badge"/>
 </p>
@@ -109,6 +115,6 @@ I'm a passionate and curious developer currently pursuing a **Bachelor's in Comp
   
 ### Thanks for visiting! 😊
   
-*"From Scratch blocks to Full-stack applications - building the future one line at a time!"* 🚀
+*"From Scratch blocks to MERN applications - building the future one stack at a time!"* 🚀
 
 </div>
