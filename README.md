@@ -18,12 +18,12 @@ Currently deep in agentic AI, RAG pipelines, and DevOps.
 `AWS EC2` `DevOps (learning)` `Git` `VS Code`
 
 ## On the Backburner
-`Solidity` `Web3.js` `Ethers.js` `Flutter`
+`Solidity` `Web3.js` `Ethers.js` `Flutter` `React Native`
 
 ---
 
 ## Languages
-`JavaScript` `TypeScript` `Python` `Java` `Solidity`
+`JavaScript` `TypeScript` `Python` `Java` `Solidity` `C`
 
 ---
 
