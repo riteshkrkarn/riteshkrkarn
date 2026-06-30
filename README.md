@@ -15,7 +15,7 @@ Currently deep in agentic AI, RAG pipelines, and DevOps.
 `LLMs (learning)` `Vectorless DBs (exploring)`
 
 ## DevOps & Tools
-`AWS EC2` `DevOps (learning)` `Git` `VS Code`
+`CI-CD` `AWS EC2` `Docker` `DevOps (learning)` `Git` `VS Code`
 
 ## On the Backburner
 `Solidity` `Web3.js` `Ethers.js` `Flutter` `React Native`
